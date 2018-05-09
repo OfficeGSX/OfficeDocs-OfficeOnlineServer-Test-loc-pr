@@ -1,1 +1,3 @@
-# Welcome to OfficeDocs-Web-Apps-Server-loc!
+﻿---
+redirect_url: 'office-web-apps-server'
+---
